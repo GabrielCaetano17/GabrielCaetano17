@@ -1,3 +1,15 @@
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">I’m Gabriel Caetano </p>
+<p>- 👀 I’m interested in backend opportunities  </p>
+- 🌱 I’m currently learning java, node.js, html, css and javascript.
+
+
+
+
 <h2 align="left">Skills</h2>
 
 ###
