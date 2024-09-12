@@ -5,7 +5,7 @@
 
 <p align="left">I’m Gabriel Caetano </p>
 <p>Atualmente estou estudando no ITB, cursando o 3º Ano Técnico em informática    </p>
-<p>- 👀 I’m interested in backend opportunities  </p>
+<p>- 👀 Estou interessado em oportunidades de back-end  </p>
 - 🌱 I’m currently learning java, node.js, html, css and javascript.
 
 
