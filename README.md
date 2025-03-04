@@ -4,9 +4,9 @@
 ###
 
 <p align="left">I’m Gabriel Caetano </p>
-<p>🎓 Atualmente, estudo no ITB, cursando o 3º ano Técnico em Informática.</p>
+<p>🎓 Atualmente, faço Análise e Desenvolvimento de Sistemas na Estacio </p>
 <p>👀 Interesse: Oportunidades na área de back-end.</p>
-<p>🌱Atualmente estou aprendendo Php, Java, JavaScript e Kotlin.</p>
+<p>🌱Atualmente estou aprendendo Php, Java, Python, Oracle SQL, Pl/SQL .</p>
 
 
 
