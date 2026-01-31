@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Gabriel Caetano<br><br>🎓 Atualmente, faço Análise e Desenvolvimento de Sistemas na Estácio<br><br>👀 Interesse: Oportunidades na área de back-end.<br><br>🌱Atualmente estou aprendendo Java, Php, Python, C, Js, Oracle, PL/SQL, SQL Serve, MySQL.</p>
+<p align="left">I’m Gabriel Caetano<br><br>🎓 Atualmente, faço Análise e Desenvolvimento de Sistemas na Estácio<br><br>👀 Interesse: Oportunidades na área de back-end.<br><br>🌱Atualmente estou aprendendo Java, Php, Python, C, Js, Oracle, PL/SQL, SQL Server, MySQL.</p>
 
 ###
 
